@@ -1,0 +1,406 @@
+7:28:00 PM  [main] 	Initializing Control Panel
+7:28:00 PM  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+7:28:00 PM  [main] 	XAMPP Version: 5.6.24
+7:28:00 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+7:28:00 PM  [main] 	You are not running with administrator rights! This will work for
+7:28:00 PM  [main] 	most application stuff but whenever you do something with services
+7:28:00 PM  [main] 	there will be a security dialogue or things will break! So think 
+7:28:00 PM  [main] 	about running this application with administrator rights!
+7:28:00 PM  [main] 	XAMPP Installation Directory: "e:\xampp\"
+7:28:00 PM  [main] 	Checking for prerequisites
+7:28:00 PM  [main] 	All prerequisites found
+7:28:00 PM  [main] 	Initializing Modules
+7:28:00 PM  [main] 	The FileZilla module is disabled
+7:28:00 PM  [main] 	The Mercury module is disabled
+7:28:00 PM  [main] 	Starting Check-Timer
+7:28:00 PM  [main] 	Control Panel Ready
+7:28:07 PM  [Apache] 	Attempting to start Apache app...
+7:28:08 PM  [Apache] 	Status change detected: running
+7:28:20 PM  [Apache] 	Attempting to stop Apache (PID: 8620)
+7:28:20 PM  [Apache] 	Attempting to stop Apache (PID: 6596)
+7:28:20 PM  [Apache] 	Status change detected: stopped
+8:42:54 PM  [Apache] 	Status change detected: running
+8:42:56 PM  [mysql] 	Status change detected: running
+10:03:32 PM  [main] 	Deinitializing Modules
+10:03:32 PM  [main] 	Deinitializing Control Panel
+
+8:42:50 PM  [main] 	Initializing Control Panel
+8:42:50 PM  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+8:42:50 PM  [main] 	XAMPP Version: 5.6.24
+8:42:50 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+8:42:50 PM  [main] 	You are not running with administrator rights! This will work for
+8:42:50 PM  [main] 	most application stuff but whenever you do something with services
+8:42:50 PM  [main] 	there will be a security dialogue or things will break! So think 
+8:42:50 PM  [main] 	about running this application with administrator rights!
+8:42:50 PM  [main] 	XAMPP Installation Directory: "e:\xampp\"
+8:42:50 PM  [main] 	Checking for prerequisites
+8:42:50 PM  [main] 	All prerequisites found
+8:42:50 PM  [main] 	Initializing Modules
+8:42:50 PM  [main] 	The FileZilla module is disabled
+8:42:50 PM  [main] 	The Mercury module is disabled
+8:42:50 PM  [main] 	Starting Check-Timer
+8:42:50 PM  [main] 	Control Panel Ready
+8:42:53 PM  [Apache] 	Attempting to start Apache app...
+8:42:53 PM  [Apache] 	Status change detected: running
+8:42:55 PM  [mysql] 	Attempting to start MySQL app...
+8:42:55 PM  [mysql] 	Status change detected: running
+10:03:34 PM  [main] 	Deinitializing Modules
+10:03:34 PM  [main] 	Deinitializing Control Panel
+
+7:15:57 PM  [main] 	Initializing Control Panel
+7:15:57 PM  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+7:15:57 PM  [main] 	XAMPP Version: 5.6.24
+7:15:57 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+7:15:57 PM  [main] 	You are not running with administrator rights! This will work for
+7:15:57 PM  [main] 	most application stuff but whenever you do something with services
+7:15:57 PM  [main] 	there will be a security dialogue or things will break! So think 
+7:15:57 PM  [main] 	about running this application with administrator rights!
+7:15:57 PM  [main] 	XAMPP Installation Directory: "e:\xampp\"
+7:15:57 PM  [main] 	Checking for prerequisites
+7:16:26 PM  [main] 	All prerequisites found
+7:16:26 PM  [main] 	Initializing Modules
+7:16:26 PM  [main] 	The FileZilla module is disabled
+7:16:26 PM  [main] 	The Mercury module is disabled
+7:16:26 PM  [main] 	Enabling autostart for module "Apache"
+7:16:26 PM  [main] 	Enabling autostart for module "MySQL"
+7:16:26 PM  [main] 	Starting Check-Timer
+7:16:26 PM  [main] 	Control Panel Ready
+7:16:27 PM  [Apache] 	Autostart active: starting...
+7:16:27 PM  [Apache] 	Attempting to start Apache app...
+7:16:27 PM  [mysql] 	Autostart active: starting...
+7:16:27 PM  [mysql] 	Attempting to start MySQL app...
+7:16:28 PM  [Apache] 	Status change detected: running
+7:16:28 PM  [mysql] 	Status change detected: running
+10:00:23 PM  [main] 	Deinitializing Modules
+10:00:23 PM  [main] 	Deinitializing Control Panel
+
+2:25:16 PM  [main] 	Initializing Control Panel
+2:25:16 PM  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+2:25:16 PM  [main] 	XAMPP Version: 5.6.24
+2:25:16 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+2:25:16 PM  [main] 	You are not running with administrator rights! This will work for
+2:25:16 PM  [main] 	most application stuff but whenever you do something with services
+2:25:16 PM  [main] 	there will be a security dialogue or things will break! So think 
+2:25:16 PM  [main] 	about running this application with administrator rights!
+2:25:16 PM  [main] 	XAMPP Installation Directory: "f:\xampp\"
+2:25:16 PM  [main] 	Checking for prerequisites
+2:27:01 PM  [main] 	All prerequisites found
+2:27:01 PM  [main] 	Initializing Modules
+2:27:01 PM  [main] 	The FileZilla module is disabled
+2:27:01 PM  [main] 	The Mercury module is disabled
+2:27:01 PM  [main] 	Enabling autostart for module "Apache"
+2:27:01 PM  [main] 	Enabling autostart for module "MySQL"
+2:27:01 PM  [main] 	Starting Check-Timer
+2:27:01 PM  [main] 	Control Panel Ready
+2:27:01 PM  [Apache] 	Autostart active: starting...
+2:27:01 PM  [Apache] 	Attempting to start Apache app...
+2:27:01 PM  [mysql] 	Autostart active: starting...
+2:27:01 PM  [mysql] 	Attempting to start MySQL app...
+2:27:04 PM  [Apache] 	Status change detected: running
+2:27:04 PM  [mysql] 	Status change detected: running
+2:27:07 PM  [Apache] 	Attempting to stop Apache (PID: 7756)
+2:27:08 PM  [Apache] 	Status change detected: stopped
+2:27:25 PM  [main] 	Deinitializing Modules
+2:27:25 PM  [main] 	Deinitializing Control Panel
+
+2:27:52 PM  [main] 	Initializing Control Panel
+2:27:52 PM  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+2:27:52 PM  [main] 	XAMPP Version: 5.6.24
+2:27:52 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+2:27:52 PM  [main] 	You are not running with administrator rights! This will work for
+2:27:52 PM  [main] 	most application stuff but whenever you do something with services
+2:27:52 PM  [main] 	there will be a security dialogue or things will break! So think 
+2:27:52 PM  [main] 	about running this application with administrator rights!
+2:27:52 PM  [main] 	XAMPP Installation Directory: "f:\xampp\"
+2:27:52 PM  [main] 	Checking for prerequisites
+2:27:52 PM  [main] 	All prerequisites found
+2:27:52 PM  [main] 	Initializing Modules
+2:27:53 PM  [mysql] 	XAMPP MySQL is already running on port 3306
+2:27:53 PM  [main] 	The FileZilla module is disabled
+2:27:53 PM  [main] 	The Mercury module is disabled
+2:27:53 PM  [main] 	Enabling autostart for module "Apache"
+2:27:53 PM  [main] 	Enabling autostart for module "MySQL"
+2:27:53 PM  [main] 	Starting Check-Timer
+2:27:53 PM  [main] 	Control Panel Ready
+2:27:53 PM  [Apache] 	Autostart active: starting...
+2:27:53 PM  [Apache] 	Attempting to start Apache app...
+2:27:53 PM  [mysql] 	Autostart aborted: MySQL is already running
+2:27:54 PM  [Apache] 	Status change detected: running
+3:00:58 PM  [Apache] 	Attempting to stop Apache (PID: 3916)
+3:00:58 PM  [Apache] 	Attempting to stop Apache (PID: 7488)
+3:00:58 PM  [Apache] 	Status change detected: stopped
+3:01:01 PM  [mysql] 	Attempting to stop MySQL app...
+3:01:02 PM  [main] 	Deinitializing Modules
+3:01:02 PM  [main] 	Deinitializing Control Panel
+
+2:23:33 PM  [main] 	Initializing Control Panel
+2:23:33 PM  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+2:23:33 PM  [main] 	XAMPP Version: 5.6.24
+2:23:33 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+2:23:33 PM  [main] 	You are not running with administrator rights! This will work for
+2:23:33 PM  [main] 	most application stuff but whenever you do something with services
+2:23:33 PM  [main] 	there will be a security dialogue or things will break! So think 
+2:23:33 PM  [main] 	about running this application with administrator rights!
+2:23:33 PM  [main] 	XAMPP Installation Directory: "f:\xampp\"
+2:23:33 PM  [main] 	Checking for prerequisites
+2:24:11 PM  [main] 	All prerequisites found
+2:24:11 PM  [main] 	Initializing Modules
+2:24:11 PM  [main] 	The FileZilla module is disabled
+2:24:11 PM  [main] 	The Mercury module is disabled
+2:24:11 PM  [main] 	Enabling autostart for module "Apache"
+2:24:11 PM  [main] 	Enabling autostart for module "MySQL"
+2:24:11 PM  [main] 	Starting Check-Timer
+2:24:11 PM  [main] 	Control Panel Ready
+2:24:11 PM  [Apache] 	Autostart active: starting...
+2:24:11 PM  [Apache] 	Attempting to start Apache app...
+2:24:11 PM  [mysql] 	Autostart active: starting...
+2:24:11 PM  [mysql] 	Attempting to start MySQL app...
+2:24:12 PM  [Apache] 	Status change detected: running
+2:24:12 PM  [mysql] 	Status change detected: running
+9:58:29 PM  [Apache] 	Attempting to stop Apache (PID: 1060)
+9:58:29 PM  [Apache] 	Attempting to stop Apache (PID: 212)
+9:58:31 PM  [Apache] 	Status change detected: stopped
+9:58:33 PM  [mysql] 	Attempting to stop MySQL app...
+9:58:47 PM  [mysql] 	Status change detected: stopped
+9:58:57 PM  [main] 	Deinitializing Modules
+9:58:57 PM  [main] 	Deinitializing Control Panel
+
+7:53:51 PM  [main] 	Initializing Control Panel
+7:53:51 PM  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+7:53:51 PM  [main] 	XAMPP Version: 5.6.24
+7:53:51 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+7:53:51 PM  [main] 	You are not running with administrator rights! This will work for
+7:53:51 PM  [main] 	most application stuff but whenever you do something with services
+7:53:51 PM  [main] 	there will be a security dialogue or things will break! So think 
+7:53:51 PM  [main] 	about running this application with administrator rights!
+7:53:51 PM  [main] 	XAMPP Installation Directory: "f:\xampp\"
+7:53:51 PM  [main] 	Checking for prerequisites
+7:54:32 PM  [main] 	All prerequisites found
+7:54:32 PM  [main] 	Initializing Modules
+7:54:32 PM  [main] 	The FileZilla module is disabled
+7:54:32 PM  [main] 	The Mercury module is disabled
+7:54:32 PM  [main] 	Enabling autostart for module "Apache"
+7:54:32 PM  [main] 	Enabling autostart for module "MySQL"
+7:54:32 PM  [main] 	Starting Check-Timer
+7:54:32 PM  [main] 	Control Panel Ready
+7:54:33 PM  [Apache] 	Autostart active: starting...
+7:54:33 PM  [Apache] 	Attempting to start Apache app...
+7:54:33 PM  [mysql] 	Autostart active: starting...
+7:54:33 PM  [mysql] 	Attempting to start MySQL app...
+7:54:34 PM  [Apache] 	Status change detected: running
+7:54:34 PM  [mysql] 	Status change detected: running
+9:57:03 PM  [Apache] 	Attempting to stop Apache (PID: 1032)
+9:57:03 PM  [Apache] 	Attempting to stop Apache (PID: 11784)
+9:57:03 PM  [mysql] 	Attempting to stop MySQL app...
+9:57:04 PM  [Apache] 	Status change detected: stopped
+9:57:07 PM  [mysql] 	Status change detected: stopped
+9:57:14 PM  [main] 	Deinitializing Modules
+9:57:14 PM  [main] 	Deinitializing Control Panel
+
+2:27:48 PM  [main] 	Initializing Control Panel
+2:27:48 PM  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+2:27:48 PM  [main] 	XAMPP Version: 5.6.24
+2:27:48 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+2:27:48 PM  [main] 	You are not running with administrator rights! This will work for
+2:27:48 PM  [main] 	most application stuff but whenever you do something with services
+2:27:48 PM  [main] 	there will be a security dialogue or things will break! So think 
+2:27:48 PM  [main] 	about running this application with administrator rights!
+2:27:48 PM  [main] 	XAMPP Installation Directory: "f:\xampp\"
+2:27:48 PM  [main] 	Checking for prerequisites
+2:28:32 PM  [main] 	All prerequisites found
+2:28:32 PM  [main] 	Initializing Modules
+2:28:32 PM  [main] 	The FileZilla module is disabled
+2:28:32 PM  [main] 	The Mercury module is disabled
+2:28:32 PM  [main] 	Enabling autostart for module "Apache"
+2:28:32 PM  [main] 	Enabling autostart for module "MySQL"
+2:28:32 PM  [main] 	Starting Check-Timer
+2:28:32 PM  [main] 	Control Panel Ready
+2:28:32 PM  [Apache] 	Autostart active: starting...
+2:28:32 PM  [Apache] 	Attempting to start Apache app...
+2:28:32 PM  [mysql] 	Autostart active: starting...
+2:28:32 PM  [mysql] 	Attempting to start MySQL app...
+2:28:33 PM  [Apache] 	Status change detected: running
+2:28:34 PM  [mysql] 	Status change detected: running
+4:17:17 PM  [Apache] 	Attempting to stop Apache (PID: 8360)
+4:17:17 PM  [Apache] 	Attempting to stop Apache (PID: 2456)
+4:17:17 PM  [mysql] 	Attempting to stop MySQL app...
+4:17:18 PM  [Apache] 	Status change detected: stopped
+4:17:27 PM  [mysql] 	Status change detected: stopped
+4:19:54 PM  [main] 	Deinitializing Modules
+4:19:54 PM  [main] 	Deinitializing Control Panel
+
+5:49:27 PM  [main] 	Initializing Control Panel
+5:49:27 PM  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+5:49:27 PM  [main] 	XAMPP Version: 5.6.24
+5:49:27 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+5:49:27 PM  [main] 	You are not running with administrator rights! This will work for
+5:49:27 PM  [main] 	most application stuff but whenever you do something with services
+5:49:27 PM  [main] 	there will be a security dialogue or things will break! So think 
+5:49:27 PM  [main] 	about running this application with administrator rights!
+5:49:27 PM  [main] 	XAMPP Installation Directory: "f:\xampp\"
+5:49:27 PM  [main] 	Checking for prerequisites
+5:49:35 PM  [main] 	All prerequisites found
+5:49:35 PM  [main] 	Initializing Modules
+5:49:35 PM  [main] 	The FileZilla module is disabled
+5:49:35 PM  [main] 	The Mercury module is disabled
+5:49:35 PM  [main] 	Enabling autostart for module "Apache"
+5:49:35 PM  [main] 	Enabling autostart for module "MySQL"
+5:49:35 PM  [main] 	Starting Check-Timer
+5:49:35 PM  [main] 	Control Panel Ready
+5:49:36 PM  [Apache] 	Autostart active: starting...
+5:49:36 PM  [Apache] 	Attempting to start Apache app...
+5:49:36 PM  [mysql] 	Autostart active: starting...
+5:49:36 PM  [mysql] 	Attempting to start MySQL app...
+5:49:37 PM  [Apache] 	Status change detected: running
+5:49:37 PM  [mysql] 	Status change detected: running
+10:00:30 PM  [Apache] 	Attempting to stop Apache (PID: 11076)
+10:00:30 PM  [Apache] 	Attempting to stop Apache (PID: 9280)
+10:00:31 PM  [mysql] 	Attempting to stop MySQL app...
+10:00:33 PM  [Apache] 	Status change detected: stopped
+10:00:43 PM  [mysql] 	Attempting to stop MySQL app...
+10:00:48 PM  [mysql] 	Status change detected: stopped
+10:00:53 PM  [main] 	Deinitializing Modules
+10:00:53 PM  [main] 	Deinitializing Control Panel
+
+7:22:12 PM  [main] 	Initializing Control Panel
+7:22:12 PM  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+7:22:12 PM  [main] 	XAMPP Version: 5.6.24
+7:22:12 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+7:22:12 PM  [main] 	You are not running with administrator rights! This will work for
+7:22:12 PM  [main] 	most application stuff but whenever you do something with services
+7:22:12 PM  [main] 	there will be a security dialogue or things will break! So think 
+7:22:12 PM  [main] 	about running this application with administrator rights!
+7:22:12 PM  [main] 	XAMPP Installation Directory: "f:\xampp\"
+7:22:13 PM  [main] 	Checking for prerequisites
+7:22:51 PM  [main] 	All prerequisites found
+7:22:51 PM  [main] 	Initializing Modules
+7:22:51 PM  [main] 	The FileZilla module is disabled
+7:22:51 PM  [main] 	The Mercury module is disabled
+7:22:51 PM  [main] 	Enabling autostart for module "Apache"
+7:22:51 PM  [main] 	Enabling autostart for module "MySQL"
+7:22:51 PM  [main] 	Starting Check-Timer
+7:22:51 PM  [main] 	Control Panel Ready
+7:22:52 PM  [Apache] 	Autostart active: starting...
+7:22:52 PM  [Apache] 	Attempting to start Apache app...
+7:22:52 PM  [mysql] 	Autostart active: starting...
+7:22:52 PM  [mysql] 	Attempting to start MySQL app...
+7:22:52 PM  [mysql] 	Status change detected: running
+7:22:53 PM  [Apache] 	Status change detected: running
+7:29:32 PM  [main] 	Deinitializing Modules
+7:29:32 PM  [main] 	Deinitializing Control Panel
+
+7:59:19 PM  [main] 	Initializing Control Panel
+7:59:19 PM  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+7:59:19 PM  [main] 	XAMPP Version: 5.6.24
+7:59:19 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+7:59:19 PM  [main] 	You are not running with administrator rights! This will work for
+7:59:19 PM  [main] 	most application stuff but whenever you do something with services
+7:59:19 PM  [main] 	there will be a security dialogue or things will break! So think 
+7:59:19 PM  [main] 	about running this application with administrator rights!
+7:59:19 PM  [main] 	XAMPP Installation Directory: "f:\xampp\"
+7:59:19 PM  [main] 	Checking for prerequisites
+7:59:52 PM  [main] 	All prerequisites found
+7:59:52 PM  [main] 	Initializing Modules
+7:59:52 PM  [main] 	The FileZilla module is disabled
+7:59:52 PM  [main] 	The Mercury module is disabled
+7:59:52 PM  [main] 	Enabling autostart for module "Apache"
+7:59:52 PM  [main] 	Enabling autostart for module "MySQL"
+7:59:52 PM  [main] 	Starting Check-Timer
+7:59:52 PM  [main] 	Control Panel Ready
+7:59:53 PM  [Apache] 	Autostart active: starting...
+7:59:53 PM  [Apache] 	Attempting to start Apache app...
+7:59:53 PM  [mysql] 	Autostart active: starting...
+7:59:53 PM  [mysql] 	Attempting to start MySQL app...
+7:59:53 PM  [Apache] 	Status change detected: running
+7:59:54 PM  [mysql] 	Status change detected: running
+8:04:34 PM  [mysql] 	Attempting to stop MySQL app...
+8:04:35 PM  [mysql] 	Status change detected: stopped
+8:04:40 PM  [mysql] 	Status change detected: running
+8:05:24 PM  [mysql] 	Status change detected: stopped
+8:05:55 PM  [mysql] 	Attempting to start MySQL app...
+8:05:56 PM  [mysql] 	Status change detected: running
+8:20:47 PM  [Apache] 	Attempting to stop Apache (PID: 3344)
+8:20:47 PM  [Apache] 	Attempting to stop Apache (PID: 7756)
+8:20:47 PM  [Apache] 	Status change detected: stopped
+8:20:48 PM  [mysql] 	Attempting to stop MySQL app...
+8:20:48 PM  [mysql] 	Status change detected: stopped
+8:20:49 PM  [mysql] 	Attempting to start MySQL app...
+8:20:50 PM  [mysql] 	Status change detected: running
+8:20:50 PM  [Apache] 	Attempting to start Apache app...
+8:20:51 PM  [Apache] 	Status change detected: running
+8:21:47 PM  [mysql] 	Attempting to stop MySQL app...
+8:21:47 PM  [mysql] 	Status change detected: stopped
+8:21:51 PM  [mysql] 	Attempting to start MySQL app...
+8:21:52 PM  [mysql] 	Status change detected: running
+8:31:33 PM  [Apache] 	Attempting to stop Apache (PID: 6476)
+8:31:33 PM  [Apache] 	Attempting to stop Apache (PID: 6360)
+8:31:33 PM  [Apache] 	Status change detected: stopped
+8:31:34 PM  [mysql] 	Attempting to stop MySQL app...
+8:31:34 PM  [mysql] 	Status change detected: stopped
+8:31:49 PM  [main] 	Deinitializing Modules
+8:31:49 PM  [main] 	Deinitializing Control Panel
+
+8:38:06 PM  [main] 	Initializing Control Panel
+8:38:06 PM  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+8:38:06 PM  [main] 	XAMPP Version: 5.6.24
+8:38:06 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+8:38:06 PM  [main] 	You are not running with administrator rights! This will work for
+8:38:06 PM  [main] 	most application stuff but whenever you do something with services
+8:38:06 PM  [main] 	there will be a security dialogue or things will break! So think 
+8:38:06 PM  [main] 	about running this application with administrator rights!
+8:38:06 PM  [main] 	XAMPP Installation Directory: "f:\xampp\"
+8:38:06 PM  [main] 	Checking for prerequisites
+8:38:06 PM  [main] 	All prerequisites found
+8:38:06 PM  [main] 	Initializing Modules
+8:38:06 PM  [main] 	The FileZilla module is disabled
+8:38:06 PM  [main] 	The Mercury module is disabled
+8:38:06 PM  [main] 	Enabling autostart for module "Apache"
+8:38:06 PM  [main] 	Enabling autostart for module "MySQL"
+8:38:06 PM  [main] 	Starting Check-Timer
+8:38:06 PM  [main] 	Control Panel Ready
+8:38:07 PM  [Apache] 	Autostart active: starting...
+8:38:07 PM  [Apache] 	Attempting to start Apache app...
+8:38:07 PM  [mysql] 	Autostart active: starting...
+8:38:07 PM  [mysql] 	Attempting to start MySQL app...
+8:38:07 PM  [Apache] 	Status change detected: running
+8:38:07 PM  [mysql] 	Status change detected: running
+9:59:47 PM  [Apache] 	Attempting to stop Apache (PID: 7956)
+9:59:47 PM  [Apache] 	Attempting to stop Apache (PID: 7720)
+9:59:47 PM  [Apache] 	Status change detected: stopped
+9:59:47 PM  [mysql] 	Attempting to stop MySQL app...
+9:59:48 PM  [mysql] 	Status change detected: stopped
+9:59:51 PM  [main] 	Deinitializing Modules
+9:59:51 PM  [main] 	Deinitializing Control Panel
+
+12:43:24 AM  [main] 	Initializing Control Panel
+12:43:24 AM  [main] 	Windows Version:  Pro  64-bit
+12:43:24 AM  [main] 	XAMPP Version: 5.6.24
+12:43:24 AM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+12:43:24 AM  [main] 	You are not running with administrator rights! This will work for
+12:43:24 AM  [main] 	most application stuff but whenever you do something with services
+12:43:24 AM  [main] 	there will be a security dialogue or things will break! So think 
+12:43:24 AM  [main] 	about running this application with administrator rights!
+12:43:24 AM  [main] 	XAMPP Installation Directory: "h:\xampp\"
+12:43:24 AM  [main] 	Checking for prerequisites
+12:43:24 AM  [main] 	All prerequisites found
+12:43:24 AM  [main] 	Initializing Modules
+12:43:24 AM  [main] 	The FileZilla module is disabled
+12:43:24 AM  [main] 	The Mercury module is disabled
+12:43:24 AM  [main] 	Enabling autostart for module "Apache"
+12:43:24 AM  [main] 	Enabling autostart for module "MySQL"
+12:43:24 AM  [main] 	Starting Check-Timer
+12:43:24 AM  [main] 	Control Panel Ready
+12:43:25 AM  [Apache] 	Autostart active: starting...
+12:43:25 AM  [Apache] 	Attempting to start Apache app...
+12:43:25 AM  [mysql] 	Autostart active: starting...
+12:43:25 AM  [mysql] 	Attempting to start MySQL app...
+12:43:27 AM  [Apache] 	Status change detected: running
+12:43:27 AM  [mysql] 	Status change detected: running
+12:49:15 AM  [Apache] 	Attempting to stop Apache (PID: 2076)
+12:49:15 AM  [Apache] 	Attempting to stop Apache (PID: 9436)
+12:49:15 AM  [Apache] 	Status change detected: stopped
+12:49:16 AM  [mysql] 	Attempting to stop MySQL app...
+12:49:17 AM  [mysql] 	Status change detected: stopped
+12:49:24 AM  [main] 	Deinitializing Modules
+12:49:24 AM  [main] 	Deinitializing Control Panel
+
